@@ -1,0 +1,32 @@
+/* Write your CSS here */
+* {
+  font-family: 'Roboto';
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.heading {
+  font-size: 26px;
+  color: #171f46;
+}
+
+.title-heading {
+  font-size: 24px;
+  color: #2b237c;
+}
+
+.chrono-container {
+  width: 100%x;
+  height: 70%;
+}
+
+.image {
+  width: 30%;
+  height: 30%;
+}
